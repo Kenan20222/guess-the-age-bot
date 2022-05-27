@@ -4,8 +4,8 @@ Telegram-bot for playing «guess the age» game in group chats.
 
 ## Links
 
-1. [Bot itself](https://t.me/GuessTheAgeBot)
-2. [Author's channel](https://t.me/FilteredInternet)
+1. [Bot itself](http://t.me/AzerbaycanGuess_GameBot)
+2. [Author's channel](https://t.me/Qarabag_team_N1)
 
 ## Usage
 
